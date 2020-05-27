@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+  <a href="https://dunktree.com.au">
+    <img alt="Dunktree" src="https://raw.githubusercontent.com/dunktree/dunktree.com.au/master/static/dunktree-dark.png" width="300" />
   </a>
 </p>
 <h1 align="center">
