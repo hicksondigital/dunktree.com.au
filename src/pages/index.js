@@ -28,15 +28,27 @@ class Home extends React.Component {
               <span id="typed"></span>
             </h2>
             <p className="description">
-              <strong>Dunktree</strong> is the work of Sydney-based web
-              development consultant, <strong>Zachary Hickson</strong>, crafting
-              high-quality, fast and ethical websites and applications for
-              businesses of all shapes and sizes. Dunktree specialises in
-              WordPress websites and plugins, API integrations and other
-              development projects.
+              <abbr title="The combinitation of 'dunk' and 'tree' representing the success of a slam dunk, and the growth and long-term stability of a tree. ">
+                Dunktree
+              </abbr>{" "}
+              is the work of Sydney-based web development consultant,{" "}
+              <a
+                href="https://zacharyhickson.com/about/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Zachary Hickson
+              </a>
+              , crafting high-quality, fast and ethical websites and
+              applications for businesses of all shapes and sizes.
+            </p>
+            <p className="description">
+              Primary services include custom WordPress theme and plugin
+              development, API integrations, performance optimisation, JAMstack
+              and other web-based projects.
             </p>
             <p className="description-small">
-              Some of Dunktree's clients and partners:
+              Some of Dunktree's clients and partners include:
             </p>
             <aside className="clients">
               <client className="client">

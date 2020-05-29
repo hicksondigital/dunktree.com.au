@@ -7,7 +7,7 @@ body {
   line-height: 1.6;
   font-size: 18px;
   color: white;
-  background: rgb(0, 0, 0);
+  background: #171717;
 }
 
 * {
@@ -232,6 +232,6 @@ main.sub-page section {
     padding-bottom: 2rem;
   }
   .footer-right {
-    text-align: right;
+    text-align: left;
   }
 }
