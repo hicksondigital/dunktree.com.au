@@ -46,6 +46,12 @@ const SEO = ({ title, description, image, article }) => {
         <meta name="twitter:description" content={seo.description} />
       )}
       {seo.image && <meta name="twitter:image" content={seo.image} />}
+      <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Teko&display=swap"
+        rel="stylesheet"
+      />
+      <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+      <link rel="dns-prefetch" href="//fonts.gstatic.com" />
     </Helmet>
   )
 }
